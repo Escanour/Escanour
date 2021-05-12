@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-   **-I'm Akas, a self-motivated tech enthusiast and full stack web developer.**
+   **I'm Anouar, a self-motivated tech enthusiast and full stack web developer.**
                                 
    **- 👨🏽‍💻 I’m currently studying at  [1337 School](https://1337.ma)**
 
