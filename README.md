@@ -20,10 +20,6 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Escanour&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Escanour&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
-
-
 **- 👨🏽‍💻 I’m currently studying at  [1337 School](https://1337.ma)**
 
 - 📫 Don't be hesitate to contact me ! @anouaressaid60@gmail.com
