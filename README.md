@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 -->
 ![Escanour's GitHub stats](https://github-readme-stats.vercel.app/api?username=Escanour&show_icons=true&theme=radical)
 
+![Escanour's GitHub stats](https://github-readme-stats.vercel.app/api?username=Escanour&hide=contribs,prs)
+
+
 **- 👨🏽‍💻 I’m currently studying at  [1337 School](https://1337.ma)**
 
 - 📫 Don't be hesitate to contact me ! @anouaressaid60@gmail.com
