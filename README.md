@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 
 - 📫 Contact me ! @anouaressaid60@gmail.com
 - [![Linkedin: imthepk](https://img.shields.io/badge/-Escanour-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anouar-essaid/)](https://www.linkedin.com/in/anouar-essaid/)
-</br>
+
 [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&email=hide&login=aessaid)](https://github.com/Escanour)
