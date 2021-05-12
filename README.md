@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+**- 👨🏽‍💻 I’m currently studying at  [1337 School](https://1337.ma)**
 
 [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&email=hide&login=aessaid)](https://github.com/Escanour)
