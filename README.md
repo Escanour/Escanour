@@ -1,7 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-
-**- 👨🏽‍💻 I’m currently studying at  [1337 School](https://1337.ma)**
+#######################**-I'm Akas, a self-motivated tech enthusiast and full stack web developer.**
+                                **- 👨🏽‍💻 I’m currently studying at  [1337 School](https://1337.ma)**
 
 - 📫 Don't be hesitate to contact me ! @anouaressaid60@gmail.com
 - [![Linkedin: imthepk](https://img.shields.io/badge/-Escanour-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anouar-essaid/)](https://www.linkedin.com/in/anouar-essaid/)
