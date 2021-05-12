@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 -->
 ![Escanour's GitHub stats](https://github-readme-stats.vercel.app/api?username=Escanour&show_icons=true&theme=algolia)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Escanour&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Escanour&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
 
 
