@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 ![Escanour's GitHub stats](https://github-readme-stats.vercel.app/api?username=Escanour&show_icons=true&theme=algolia)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Escanour&repo=github-readme-stats)](https://github.com/Escanour/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Escanour&repo=github-readme-stats)](https://github.com/Escanour/awesome-robotic-tooling)
 
 
 **- 👨🏽‍💻 I’m currently studying at  [1337 School](https://1337.ma)**
