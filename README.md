@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Escanour&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Escanour&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 
 **- 👨🏽‍💻 I’m currently studying at  [1337 School](https://1337.ma)**
 
