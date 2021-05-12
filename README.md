@@ -1,6 +1,5 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm Anouar Web Developer,
 
 **- 👨🏽‍💻 I’m currently studying at  [1337 School](https://1337.ma)**
 
